@@ -21,9 +21,9 @@ export const INTRO_CONTENT = {
     
     // Student List
     students: [
-        "Mothinath G - 2023507009",
-        "Madusudarsanan J-2023507021",
-        "Prabakaran K -2023507302",
-        "Venugopal R-2023507307"
+        "S. G. Shankar Vignesh - 2023507029",
+        "B. Anirudha - 2023507037",
+        "R. Nithyanandam - 2023507045",
+        "Iwin Samuel Jayaraj - 2023507304"
     ]
 };
